@@ -1,6 +1,6 @@
 ### Lux Color Bot README
 
-Welcome to the **Lux Color Bot**! Follow these steps to get the bot up and running on a Windows system.
+Welcome to the **Lux Color Bot**! Follow these steps to get the bot up and running it.
 
 #### Installation
 
@@ -21,7 +21,7 @@ Welcome to the **Lux Color Bot**! Follow these steps to get the bot up and runni
 1. **Edit `auth.py`**
    - Open `auth.py` and set the following variables:
      ```python
-	 self.name = "your_app_name"
+     self.name = "your_app_name"
      self.ownerid = "your_owner_id"
      self.secret = "your_secret"
      ```
