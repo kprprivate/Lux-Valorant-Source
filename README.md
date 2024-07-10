@@ -2,6 +2,10 @@
 
 Welcome to the **Lux Color Bot**! Follow these steps to get the bot up and running it.
 
+* Driver is not included, but you can buy a Undetected and Signed one on:
+> discord.gg/anonymous - open ticket and wait for Guy Fawkes
+> anonymousepvp - dm
+
 #### Installation
 
 1. **Set Up Virtual Environment (Optional)**
